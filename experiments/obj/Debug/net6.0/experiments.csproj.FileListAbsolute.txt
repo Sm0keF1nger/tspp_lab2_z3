@@ -1,0 +1,15 @@
+E:\repository\lab2_z3\experiments\bin\Debug\net6.0\experiments.exe
+E:\repository\lab2_z3\experiments\bin\Debug\net6.0\experiments.deps.json
+E:\repository\lab2_z3\experiments\bin\Debug\net6.0\experiments.runtimeconfig.json
+E:\repository\lab2_z3\experiments\bin\Debug\net6.0\experiments.dll
+E:\repository\lab2_z3\experiments\bin\Debug\net6.0\experiments.pdb
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\experiments.csproj.AssemblyReference.cache
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\experiments.GeneratedMSBuildEditorConfig.editorconfig
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\experiments.AssemblyInfoInputs.cache
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\experiments.AssemblyInfo.cs
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\experiments.csproj.CoreCompileInputs.cache
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\experiments.dll
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\refint\experiments.dll
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\experiments.pdb
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\experiments.genruntimeconfig.cache
+E:\repository\lab2_z3\experiments\obj\Debug\net6.0\ref\experiments.dll
